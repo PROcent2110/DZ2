@@ -6,6 +6,7 @@ public class Main {
         int tretie = 57573939;
         long chtvertoe = 4398579L;
         float drobnoe1 = 2.363f;
+
         double drobnoe2 = 4.54;
         double boxer1 = 78.2;
         double boxer2 = 82.7;
@@ -15,6 +16,7 @@ public class Main {
         double boxer11 = 78.2;
         double boxer2i1 = boxer22 - boxer11;
         System.out.println("Разница в весе " + boxer2i1 + " кг");
+
         byte bananas = 80;
         System.out.println("Вес 5 бананов = " + bananas * 5 + " гр.");
         int milk = 105;
